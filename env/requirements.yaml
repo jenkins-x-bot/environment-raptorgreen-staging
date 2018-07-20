@@ -2,6 +2,9 @@ dependencies:
 - name: bdd-test-create-spring-1532115728
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: bdd-test-golang-http-1532115728
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: bdd-test-import-1532115728
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.0.0
